@@ -14,7 +14,7 @@
 <hr>
 
 <center><b>Home</b></center>
-![alt text](images/home.png)
+![Home](images/home.png)
 
 <hr>
 
