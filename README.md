@@ -16,5 +16,7 @@
 <center><b>Home</b></center>
 ![alt text](images/home.png)
 
+<hr>
+
 # Harsh_Pract
 SDAC pract
